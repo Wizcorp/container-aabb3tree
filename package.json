@@ -1,0 +1,15 @@
+{
+  "name": "container-aabb3tree",
+  "version": "1.0.0",
+  "description": "Axis-Aligned Bounding Box 3D Tree container",
+  "main": "index.js",
+  "author": "Wizcorp Inc.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wizcorp/container-aabb3tree.git"
+  },
+  "dependencies": {
+    "aabb3": "1.0.0"
+  }
+}
